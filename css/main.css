@@ -1,0 +1,16 @@
+body{
+    background-color: #008FAE;
+}
+
+.container{
+    display: inline-block;
+    width: 800px;
+}
+
+.left-column{
+    background-color: yellow;
+}
+
+.right-column{
+    background-color: violet;
+}
