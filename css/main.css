@@ -1,16 +1,36 @@
 body{
-    background-color: #008FAE;
+    background-color: #44b2c8;
 }
 
 .container{
     display: inline-block;
     width: 800px;
+    margin-top: 150px;
+    margin-left: calc(50% - 400px);
 }
 
 .left-column{
-    background-color: yellow;
+    width: 40%;
+    float: left;
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: #3f52b2;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+h1{
+    
+}
+
+a{
+    color: #fff;
 }
 
 .right-column{
-    background-color: violet;
+    width: 60%;
+    float: left;
+    padding: 40px;
+    box-sizing: border-box; /* pas ji sito nebuvo */
+    background-color: #fff;
 }
