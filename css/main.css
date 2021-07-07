@@ -19,11 +19,14 @@ body{
     box-sizing: border-box;
 }
 
-h1{
-    
+h1{ 
 }
 
-a{
+.bottom-texts{
+
+}
+
+.bottom-texts > a{
     color: #fff;
 }
 
@@ -34,3 +37,11 @@ a{
     box-sizing: border-box; /* pas ji sito nebuvo */
     background-color: #fff;
 }
+
+.close{
+
+}
+
+
+
+

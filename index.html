@@ -5,7 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sign-Up v6</title>
-    <link rel="stylesheet" href=",/css/reset.css">
+    <!-- basinis stilius -->
+    <link rel="stylesheet" href="./css/reset.css">
+    <!-- komponentai -->
+    <link rel="stylesheet" href="./css/form.css">
+    <!-- custom -->
     <link rel="stylesheet" href="./css/main.css">
 </head>
 <body>
@@ -13,7 +17,7 @@
         <div class="left-column">
             <!-- LEFT COLUMN -->
             <h1>Sign up</h1>
-            <div>
+            <div class="bottom-texts">
                 <a href="#">Privacy policy</a>
                 <span>&amp;</span>
                 <a href="#">terms of service</a>
@@ -21,7 +25,7 @@
         </div>
         <div class="right-column">
             <!-- RIGHT COLUMN -->
-            <div>&#x2573</div>
+            <div class="close">&#x2573</div>
             <form>
                 <div class="form-row">
                     <label for="">Username</label>
@@ -38,6 +42,11 @@
                 <div class="form-row">
                     <label for="">Repeat password</label>
                     <input type="password">
+                </div>
+                <div class="form-row">
+                    <button type="submit">Get started</button>
+                    <span>or</span>
+                    <a href="#">Sign in</a>
                 </div>
             </form>
 
