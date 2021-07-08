@@ -15,15 +15,22 @@ body{
     padding: 40px;
     padding-bottom: 20px;
     background-color: #3f52b2;
+    background-image: url(../img/hill.jpg);
+    background-size: cover;
+    background-position: center;
     color: #fff;
     box-sizing: border-box;
 }
 
-h1{
-    
+h1{ 
 }
 
-a{
+::placeholder {
+    font-style: italic;
+    color: red;
+}
+
+.bottom-texts > a{
     color: #fff;
 }
 
@@ -34,3 +41,11 @@ a{
     box-sizing: border-box; /* pas ji sito nebuvo */
     background-color: #fff;
 }
+
+.close{
+
+}
+
+
+
+
