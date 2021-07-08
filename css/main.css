@@ -22,8 +22,9 @@ body{
 h1{ 
 }
 
-.bottom-texts{
-
+::placeholder {
+    font-style: italic;
+    color: red;
 }
 
 .bottom-texts > a{
