@@ -12,7 +12,7 @@ _Sign-Up versija-6_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/30-grupe-serlokas/
+Site published at https://tester01024.github.io/04-sign-up_v6/
 
 Design: [Sign-Up](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
