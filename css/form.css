@@ -35,23 +35,6 @@ form > .form-row > input:focus-visible{
     outline: 1px solid #777;
 }
 
-form > .form-row > button{
-    font-size: 20px;
-    line-height: 26px;
-    text-transform: capitalize;
-    padding: 5px;
-    padding-left: 30px;
-    padding-right: 30px;
-    border-radius: 20px;
-    background-color: #005dd8;
-    color: #fff;
-    border: none;
-}
-
-form > .form-row > button:hover{
-    cursor: pointer;
-}
-
 form > .form-row > span{
     display: inline-block;
     line-height: 26px;
